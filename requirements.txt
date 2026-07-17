@@ -7,3 +7,4 @@ streamlit-calendar
 opencv-python-headless
 numpy
 googletrans==4.0.2
+tflite-runtime

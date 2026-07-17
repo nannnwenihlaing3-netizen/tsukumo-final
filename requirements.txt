@@ -1,0 +1,9 @@
+streamlit
+pandas
+folium
+streamlit-folium
+streamlit-option-menu
+streamlit-calendar
+opencv-python-headless
+numpy
+googletrans==4.0.0-rcl
